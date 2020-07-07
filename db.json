@@ -1,0 +1,22 @@
+{"products" : [
+{"id":1,"name":"California sea lion","category":"Aquamarine"},
+{"id":2,"name":"Mongoose, yellow","category":"Orange"},
+{"id":3,"name":"Snake, tiger","category":"Maroon"},
+{"id":4,"name":"Red-billed toucan","category":"Pink"},
+{"id":5,"name":"South American meadowlark (unidentified)","category":"Turquoise"},
+{"id":6,"name":"Pied crow","category":"Fuscia"},
+{"id":7,"name":"Bushbuck","category":"Crimson"},
+{"id":8,"name":"Tayra","category":"Mauv"},
+{"id":9,"name":"Giraffe","category":"Maroon"},
+{"id":10,"name":"Mountain goat","category":"Goldenrod"},
+{"id":11,"name":"Langur, gray","category":"Goldenrod"},
+{"id":12,"name":"African snake (unidentified)","category":"Purple"},
+{"id":13,"name":"Red kangaroo","category":"Violet"},
+{"id":14,"name":"Chilean flamingo","category":"Yellow"},
+{"id":15,"name":"River wallaby","category":"Teal"},
+{"id":16,"name":"Red howler monkey","category":"Khaki"},
+{"id":17,"name":"Goose, canada","category":"Red"},
+{"id":18,"name":"Grey phalarope","category":"Blue"},
+{"id":19,"name":"Southern white-crowned shrike","category":"Indigo"},
+{"id":20,"name":"Wolf, timber","category":"Fuscia"}
+]}
